@@ -1,0 +1,6 @@
+[submodule "external/json"]
+	path = external/json
+	url = https://github.com/sas229/json.git
+[submodule "external/TinyGPSPlus"]
+	path = external/TinyGPSPlus
+	url = https://github.com/sas229/TinyGPSPlus.git
