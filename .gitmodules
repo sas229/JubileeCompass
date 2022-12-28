@@ -4,3 +4,12 @@
 [submodule "external/TinyGPSPlus"]
 	path = external/TinyGPSPlus
 	url = https://github.com/sas229/TinyGPSPlus.git
+[submodule "external/no-OS-FatFS-SD-SPI-RPi-Pico"]
+	path = external/no-OS-FatFS-SD-SPI-RPi-Pico
+	url = https://github.com/carlk3/no-OS-FatFS-SD-SPI-RPi-Pico.git
+[submodule "external/WS2812"]
+	path = external/WS2812
+	url = https://github.com/sas229/WS2812.git
+[submodule "external/WMM"]
+	path = external/WMM
+	url = https://github.com/sas229/WMM.git
